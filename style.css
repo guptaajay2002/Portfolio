@@ -223,6 +223,7 @@ body{
     justify-content: center;
     align-items: center;
     cursor: pointer;
+    margin-left : 180px;
 }
 #icons i{
     align-items: center;
@@ -230,7 +231,7 @@ body{
     font-size: 30px;
 }
 .icons h2{
-    padding-left: 720px;
+    padding-left: 735px;
     padding-top: 40px;
     padding-bottom: 40px;
 }
