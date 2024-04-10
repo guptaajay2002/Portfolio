@@ -221,7 +221,6 @@ body{
 #icons{
     display: flex;
     justify-content: center;
-    align-items: center;
     cursor: pointer;
     margin-left: 180px;
 }
